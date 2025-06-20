@@ -1,5 +1,23 @@
 Total AV Login My Account Portal: Access Your Subscription - TotalAV
 ======================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://desk-totalav.hostlink.click/" target="_blank" style="
+         background-color: #c82333;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Go to TotalAV
+     </a>
+   </div>
 Looking to manage your TotalAV antivirus protection? With the **Total AV Login My Account** portal, users can easily control their subscriptions, download protection to multiple devices, and update payment settings. Whether you're a new customer or a returning subscriber, this comprehensive guide will walk you through accessing and navigating the **Total AV Login My Account** section of the site. 
 
 Logging into your account is essential to manage features like license renewals, device security, and software reinstallation. With a clear step-by-step explanation, you’ll learn how to use the **Total AV Login My Account** dashboard to monitor system protection and personal data security across all your devices.
